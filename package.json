@@ -1,0 +1,24 @@
+{
+    "name": "index.js",
+    "version": "1.0.0",
+    "description": "initialize",
+    "main": "index.js",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.2",
+        "mysql": "^2.18.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/rzanetti200/Projectia1.git"
+    },
+    "author": "Lucas Helms",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/rzanetti200/Projectia1/issues"
+    },
+    "homepage": "https://github.com/rzanetti200/Project2#readme"
+}
